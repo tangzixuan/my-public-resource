@@ -1,6 +1,7 @@
 # my-public-resource
 * 借助[https://www.jsdelivr.com/github](https://www.jsdelivr.com/github)来加速放在github的静态资源;
 * main分支链接：https://cdn.jsdelivr.net/gh/tangzixuan/my-public-resource@main/
+* tag链接：https://cdn.jsdelivr.net/gh/tangzixuan/my-public-resource@0.1/
 
 ## js
 * 示例：
